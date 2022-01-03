@@ -9,8 +9,8 @@ Viaj korpaj movadoj provizas la energion.
 
 522
 00:55:34,800 --> 00:55:39,240
-Enmaske vi trovos tubon 
-por ke vi povu trinki la recikligitan akvon.
+Enmaske vi trovos tubon, 
+per kiu povos trinki la recikligitan akvon.
 
 523
 00:55:39,400 --> 00:55:43,480
@@ -27,18 +27,20 @@ Ni vidu vin, knabo.
 
 526
 00:55:50,080 --> 00:55:54,080
--Ĉu vi iufsije antaŭe uzis ĉi tian kostumon?
--Ne, ĉi tiu estas mia unua fojo
+-Ĉu vi iam antaŭe uzis ĉi tian kostumon?
+-Ne, ĉi-fojo estas la unua.
+
 527
 00:55:56,587 --> 00:56:00,000
-Viaj dezertaj botoj finiĝas 
+Viaj dezertaj botoj finiĝas en la maleoloj
 Kiu instruis al vi fari tion.
 
 528
 00:56:00,680 --> 00:56:02,600
-
+Ĝi ŝajnis la bona maniero
 
 529
 00:56:04,840 --> 00:56:08,400
-
+"Li konos siajn kutimojn kiel 
+se li naskiĝin kun ili"
 
