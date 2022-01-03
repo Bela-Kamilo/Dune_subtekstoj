@@ -27,11 +27,12 @@ Ni vidu vin, knabo.
 
 526
 00:55:50,080 --> 00:55:54,080
-Ĉu vi antaŭe uzis ĉi tian kostumon?
-
+-Ĉu vi iufsije antaŭe uzis ĉi tian kostumon?
+-Ne, ĉi tiu estas mia unua fojo
 527
 00:55:56,587 --> 00:56:00,000
-
+Viaj dezertaj botoj finiĝas 
+Kiu instruis al vi fari tion.
 
 528
 00:56:00,680 --> 00:56:02,600
