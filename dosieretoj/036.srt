@@ -1,40 +1,44 @@
 360
 00:43:02,160 --> 00:43:06,080
-
+<i>Por eviti fari ritmaj sonoj
+kiuj allogas la sablovermojn</i>
 
 361
 00:43:06,240 --> 00:43:09,960
-
+<i>La Fremen trairas dezertajn lokojn
+uzante la sablan iradon</i>
 
 362
 00:43:10,120 --> 00:43:12,836
-
+<i>Kvazaŭdanca movo per neregula ritmo</i>
 
 363
 00:43:12,936 --> 00:43:15,709
-
+<i>Kiu imitas la naturajn sonojn
+de la dezerto</i>
 
 364
 00:43:16,960 --> 00:43:21,080
-
+<i>Kia planta vivo ekzistas sur Arakis
+estas danke al la fremen,</i>
 
 365
 00:43:21,240 --> 00:43:24,031
-
+<i>kiuj kultivis profunde-radikajn plantojn,</i>
 
 366
 00:43:24,115 --> 00:43:27,080
-
+<i>Kiel saguaro, burrobush,</i>		<---mi tute ne scias pri burrobush
 
 367
 00:43:27,240 --> 00:43:30,920
-
+<i>sabla verbeno kaj incensaj arbustoj</i>	<-- mi ne certas pri la arbustoj
 
 368
 00:43:31,080 --> 00:43:34,160
-
+<i>La arbo de la ŝafisto havas 
+la plej profundajn dokumentitajn radikojn</i>
 
 369
 00:43:34,320 --> 00:43:37,280
-
-
+<i>Streĉantaj pli ol 450 piedojn profunden</i>
