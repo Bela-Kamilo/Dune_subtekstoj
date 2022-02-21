@@ -4,31 +4,31 @@ Kiu estas vi por la Fremen?
 
 801
 01:42:44,680 --> 01:42:47,800
-Cxu vi scias kion la grandaj Domoj
-plej timas, D-ro Kajns?               <----
+Ĉu vi scias kion la grandaj Domoj
+plej timas, D-ro Kajns?
 
 802
 01:42:49,320 --> 01:42:51,960
-Gxuste kio okazis al ni tie cxi         <----
+Ĝuste kio okazis al ni tie ĉi
 
 803
 01:42:52,120 --> 01:42:55,000
 Ke la Sardokar venu 
-mortigante ilin unu post la alia        <--- cxu 'post la alia' aux 'post la alian'?
+mortigante ilin unu post la alia
 
 804
 01:42:57,880 --> 01:43:01,600
-Nur kune eblas ke ili restu         <----
-kontraux la Imperio
+Nur kune eblas ke ili restu
+kontraŭ la Imperio
 
 805
 01:43:03,120 --> 01:43:04,412
-Cxu vi atestus?                   <----
+Ĉu vi atestus?
 
 806
 01:43:05,305 --> 01:43:07,991
-Atestus ke la Imperiestro agis      <----
-kontraux ni tie cxi
+Atestus ke la Imperiestro agis
+kontraŭ ni tie ĉi
 
 807
 01:43:08,280 --> 01:43:10,573
@@ -41,5 +41,5 @@ kaj la Imperiestro
 
 809
 01:43:14,880 --> 01:43:17,800
-Hxaoso tra la Imperio             <----
+Ĥaoso tra la Imperio
 
