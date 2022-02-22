@@ -1,40 +1,40 @@
 880
 02:01:39,880 --> 02:01:42,880
-
+<i>Vi devos alfronti viajn timojn</i>
 
 881
 02:01:43,040 --> 02:01:47,320
-
+<i>Amiko helpos vin</i>
 
 882
 02:01:47,480 --> 02:01:50,680
-
+<i>Sekvu la amikon</i>
 
 883
 02:01:52,360 --> 02:01:54,432
-
+Vi havas multon lernendan
 
 884
 02:01:55,360 --> 02:01:58,720
-
+Kaj mi montros al vi la vojojn de la dezerto
 
 885
 02:02:01,120 --> 02:02:02,520
-
+Iru kun mi
 
 886
 02:02:29,240 --> 02:02:32,600
-
+La siĉ, kie Dankan loĝis
 
 887
 02:02:32,760 --> 02:02:34,760
-
+Ie tien
 
 888
 02:02:37,306 --> 02:02:39,428
-
+Mi povas vidi verdon tien
 
 889
 02:02:40,004 --> 02:02:40,840
-
+Tie
 
