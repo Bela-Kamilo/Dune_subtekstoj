@@ -1,40 +1,42 @@
 850
 01:53:20,000 --> 01:53:23,320
-
+Timo estas la eta morto
+kiu portas ekstermon
 
 851
 01:53:28,800 --> 01:53:31,680
-
+<i>Vidu la amikon.</i>
 
 852
 01:53:40,760 --> 01:53:44,120
-
+<i>La mistero de vivo ne estas problemo solvenda</i>
 
 853
 01:53:45,800 --> 01:53:48,440
-
+<i>Sed realo spertenda</i>
 
 854
 01:53:51,840 --> 01:53:56,160
-
+<i>Proceso kiu ne kompreneblas haltigante ĝin</i>
 
 855
 01:53:56,320 --> 01:53:59,520
-
+<i>Ni devas moviĝi kun la fluo de la proceso</i>
 
 856
 01:53:59,680 --> 01:54:03,200
-
+<i>Ni devas unuiĝi kun ĝi.
+Ni devas flosi kun ĝi</i>
 
 857
 01:54:03,800 --> 01:54:07,240
-
+<i>Lasu ĝin.Lasu ĝin</i>
 
 858
 01:54:39,080 --> 01:54:41,431
-
+Li ankoraŭ ne plene resanigis
 
 859
 01:54:52,360 --> 01:54:56,240
-
+Ni ĉasis ilin ene Koriolis ŝtormon
 
