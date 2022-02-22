@@ -1,40 +1,42 @@
 870
 01:55:47,945 --> 01:55:48,795
-
+Kaj la Fremen?
 
 871
 01:55:50,000 --> 01:55:52,160
-
+Mortigu ĉiujn
 
 872
 01:56:13,880 --> 01:56:15,360
-
+Ni estas je 5000 metrojn
 
 873
 01:57:49,400 --> 01:57:52,920
-
+Tuj post kiam ni surteriĝos, 
+kuru cele al la rokoj 
 
 874
 01:59:39,520 --> 01:59:42,040
-
+Oni spiras per tio
 
 875
 02:00:10,440 --> 02:00:12,341
-
+Nun ni devas trovi la Fremen
 
 876
 02:00:14,040 --> 02:00:16,680
-
+-Ĉu vi bonfartas?
+-Jes
 
 877
 02:01:20,840 --> 02:01:22,440
-
+<i>Pol...</i>
 
 878
 02:01:28,800 --> 02:01:31,560
-
+<i>Ne timu</i>
 
 879
 02:01:32,720 --> 02:01:36,360
-
+<i>Eĉ eta dezerta muso povas travivi</i>
 
