@@ -1,40 +1,45 @@
 910
 02:07:34,240 --> 02:07:35,207
-
+Ne kuru
 
 911
 02:07:36,522 --> 02:07:39,573
-
+Vi nur malŝparos la humidon de via korpo
 
 912
 02:07:40,120 --> 02:07:42,280
-
+Haltu
 
 913
 02:07:48,200 --> 02:07:49,840
-
+Stilgar
 
 914
 02:07:50,000 --> 02:07:54,360
-
+Hej, vi konas min. 
+Mi ĉeestis kiam vi renkontis mian patron
 
 915
 02:07:54,520 --> 02:07:56,520
-
+Tiu estas la filo de la Duko
 
 916
 02:07:56,680 --> 02:08:00,120
-
+Kial vi atendas?
+Ni bezonas ties akvon
 
 917
 02:08:00,280 --> 02:08:03,600
-
+Tiu estas la knabo pri kiu mi parolis al vi.
+Ni ne povas tuŝi lin
 
 918
 02:08:03,760 --> 02:08:07,720
-
+-Ĉu estas li Lisan al-Gajb?
+-Li ne pruvis tion
 
 919
 02:08:07,880 --> 02:08:11,280
-
+-Ili estas malfortuloj
+-Jamis...
 
