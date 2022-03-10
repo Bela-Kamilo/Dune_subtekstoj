@@ -1,40 +1,47 @@
 570
 00:59:53,086 --> 00:59:55,492
-
+<i>Korektante altecon kaj preparante
+kontakton kaj kroĉadon</i>
 
 571
 00:59:55,880 --> 00:59:58,840
-
+<i> ,Alfa Zero.                   <-------------
+Komencante kontakton</i>
 
 572
 01:00:01,000 --> 01:00:03,320
-
+<i>T-5.
+- </i>                            <-------------
 
 573
 01:00:03,480 --> 01:00:06,589
-
+<i>-Pretiĝu esti elterigita post 30 sekundojn.
+-Kontakto ekkomencis</i>
 
 574
 01:00:06,714 --> 01:00:07,996
-
+<i>Tenu vin pretaj</i>
 
 575
 01:00:10,720 --> 01:00:13,160
-
+<i>Alfa Zero, mankas unu punkto de kontakto</i>
 
 576
 01:00:13,320 --> 01:00:16,440
-
+<i>-Kio okazas?
+-Estas unu de la ankroj. Ĝi estas morta</i>
 
 577
 01:00:17,440 --> 01:00:18,960
-
+Fek
 
 578
 01:00:19,120 --> 01:00:22,760
-
+<i>Portilo, ne eblas procedi.
+Ne eblas leviĝi sen tiu ankro</i>
 
 579
 01:00:22,920 --> 01:00:24,640
+<i>Voko al ĉiuj. Voko al ĉiuj</i>
 
 
