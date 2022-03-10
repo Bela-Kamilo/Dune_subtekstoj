@@ -18,7 +18,7 @@ Signoj de vermoj?
 
 544
 00:58:09,080 --> 00:58:11,143
-Sabla ondo moviĝanta al la              <----
+Sabla ondo moviĝanta al la rikoltilo
 
 545
 00:58:11,313 --> 00:58:14,728
@@ -36,9 +36,10 @@ Se vi estas pacienca, ni rigardu unu
 
 548
 00:58:24,000 --> 00:58:25,957
-Kial ni ne simpl                       <------------
+Kial ni ne simple aplikas ŝildojn
+al la rikoltiloj
 
 549
 00:58:26,573 --> 00:58:28,714
-
+Ŝildo estas kondamno al morto en la dezerto
 
