@@ -1,40 +1,44 @@
 560
 00:59:18,880 --> 00:59:22,720
-
+<i>La vermo estas moveganta al vian pozicion.
+Kontakto je kvin minutojn</i>
 
 561
 00:59:22,880 --> 00:59:24,800
-
+Do kio okazos nun?
 
 562
 00:59:24,960 --> 00:59:26,818
-
+Ili vokos la portilon 
+por ke ĝi elterigu la rikoltilon
 
 563
 00:59:27,420 --> 00:59:29,201
-
+Ili rikoltos eĉ dum la lasta minuto
 
 564
 00:59:29,520 --> 00:59:33,160
-
+<i>Vokante portilon Alfa Zero.
+Ni pretas por elteriĝi</i>
 
 565
 00:59:33,320 --> 00:59:35,080
-
+<i>Kontakto je kvin minutojn, fino</i>
 
 566
 00:59:39,320 --> 00:59:41,320
-
+<i>Ĉu iu vidas la portilon?</i>
 
 567
 00:59:45,600 --> 00:59:46,800
-
+Jen ĝi
 
 568
 00:59:46,960 --> 00:59:50,560
-
+<i>Tio estas portilo Alfa Zero
+al Delta Ajaks 9</i>
 
 569
 00:59:50,820 --> 00:59:52,407
-
+<i>Proksimiĝante el orienten</i>
 
