@@ -1,40 +1,45 @@
 580
 01:00:24,800 --> 01:00:26,928
-
+<i>Iu ajn portilo en la sektoro,
+bonvolu respondi</i>
 
 581
 01:00:27,725 --> 01:00:29,535
-
+<i>Lokalizilo 1, ĝisdatigu nin. Fino</i>
 
 582
 01:00:29,640 --> 01:00:33,120
-
+<i>La hidraŭlikaĵoj mortis.
+Ni ne sukcesos. Vi devas foriri</i>
 
 583
 01:00:33,280 --> 01:00:36,040
-
+-Kiom da homoj sur tiu rikoltilo?
+-Rikoltilo de 21
 
 584
 01:00:36,200 --> 01:00:39,600
-
+-Niaj ŝipoj povas porti po 6
+-Ankoraŭ restas 3
 
 585
 01:00:39,760 --> 01:00:41,120
-
+Ni trovos manieron
 
 586
 01:00:52,280 --> 01:00:54,680
-
+<i>Tio estas Duko Leto Atridis</i>
 
 587
 01:00:54,840 --> 01:00:57,890
-
+<i>Ni alteriĝas por forporti 
+la skipon de Delta Ajaks 9</i>
 
 588
 01:00:58,103 --> 01:00:59,009
-
+<i>Sidiĝu maldekstre</i>
 
 589
 01:01:09,800 --> 01:01:12,360
-
+La generatoroj de ŝildoj pezas po 100 kilogramojn
 
