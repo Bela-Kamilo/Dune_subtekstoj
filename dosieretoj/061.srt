@@ -1,40 +1,46 @@
 610
 01:04:14,560 --> 01:04:16,640
-
+Kio okazas al vi?
+Ek. Ni ekiru
 
 611
 01:04:16,800 --> 01:04:18,080
-
+Kuru!
 
 612
 01:05:01,880 --> 01:05:06,280
-
+"Benu la Fariston kaj Ties akvon.
+ Benu la venadon kaj iradon Ties
 
 613
 01:05:06,440 --> 01:05:11,440
-
+Ties paso purigu la mondon.
+Kaj tenu la mondon por Sia popolo"
 
 614
 01:05:34,400 --> 01:05:37,480
-
+-Hej, vi ne povas meti sin al tiaj riskoj
+-Jes, sinjoro
 
 615
 01:05:37,640 --> 01:05:41,040
-
+-Vi havas respondecon
+-Mi pardonpetas, sinjoro. Ne okazos denove
 
 616
 01:05:41,960 --> 01:05:43,560
-
+D-ro Kajns
 
 617
 01:05:45,000 --> 01:05:47,800
-
+Vi vidis per siaj propraj okuloj
 
 618
 01:05:47,960 --> 01:05:50,557
-
+Facilas vidi. Ĉio kion ili lasis
+al ni ruiniĝas
 
 619
 01:05:50,657 --> 01:05:52,040
-
+Ni estis emitaj malsukcesi
 
