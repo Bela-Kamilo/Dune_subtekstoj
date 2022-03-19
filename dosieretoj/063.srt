@@ -1,40 +1,41 @@
 630
 01:07:08,960 --> 01:07:10,278
-
+Mi spertis vizion
 
 631
 01:07:12,986 --> 01:07:14,434
-
+Miaj okuloj estis malfermitaj
 
 632
 01:07:16,600 --> 01:07:18,560
-
+Kion vi vidis?
 
 633
 01:07:53,120 --> 01:07:56,760
-
+<i>Kŭisatz Haderak...</i>
 
 634
 01:07:56,920 --> 01:07:59,800
-
+<i>Vi povas vidi</i>
 
 635
 01:08:39,779 --> 01:08:44,320
-
+<i>Estas konfuza, mi pensis 
+ke mi spektis mian morton, sed ne estis tio</i>
 
 636
 01:08:45,440 --> 01:08:48,680
-
+<i>Mi scias ke tranĉilo iel gravas</i>
 
 637
 01:08:50,640 --> 01:08:53,080
-
+<i>Iu donos al mi klingon</i>
 
 638
 01:08:53,240 --> 01:08:56,440
-
+<i>Sed mi ne scias kiu aŭ kiam aŭ kie</i>
 
 639
 01:08:58,800 --> 01:09:03,360
-
+<i>Iuj aferoj, tamen, tute klaras. Mi povas senti tion</i>
 
