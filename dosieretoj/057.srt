@@ -5,13 +5,13 @@ kontakton kaj kroĉadon</i>
 
 571
 00:59:55,880 --> 00:59:58,840
-<i> ,Alfa Zero.                   <-------------
+<i>En orde, Alfa Zero.
 Komencante kontakton</i>
 
 572
 01:00:01,000 --> 01:00:03,320
 <i>T-5.
-- </i>                            <-------------
+-En orde</i> 
 
 573
 01:00:03,480 --> 01:00:06,589
