@@ -1,11 +1,11 @@
 # Nu , bonvenon ! 
 
-Legu cxi tion antaux vi komencu.
+Legu ĉi tion antaŭ vi komencu.
 
 Jen la plano : 
-La produktota dosiero estu divitita cxe dosieretoj po 10 frazoj .
+La produktota dosiero estu divitita je dosieretoj po 10 frazoj .
 Estos 100 dosieretoj entute .  
-Cxiu kontribuanto prizorgu kelkajn dosieretojn ,Ili poste estos kunigitaj .
+Ĉiu kontribuanto prizorgu kelkajn dosieretojn ,Ili poste estos kunigitaj .
 
 Por komenci  ,oni kontaktu min por ke mi notu kiujn dosieretojn si redaktu.
 
@@ -16,16 +16,16 @@ alexandrosk002@gmail.com
 
 # Kiel uzi
 
-Komence vi povas elsxuti la tuton per tiu verda butono
+Komence vi povas elŝuti la tuton per tiu verda butono
 
 
 ![alt text](/gvidbildoj/elsxutu.png "★")
 
-Klaku al "Download ZIP" kaj permesu ke via retumilo stori gxin.
+Klaku al "Download ZIP" kaj permesu ke via retumilo stori ĝin.
 
-Tiu dosiero enhavas cxiujn la dosierojn kiuj ekzistas tie cxi sed ili estas eligxendaj.
+Tiu dosiero enhavas ĉiujn la dosierojn kiuj ekzistas tie ĉi sed ili estas kompresitaj kaj malkompresendaj .
 
-Vi povas fari tion per iu programo kiel Winrar aux 7-zip.
+Vi povas fari tion per iu programo kia Winrar aŭ 7-zip.
 
 Por komenci skribi iru al "dosieretoj" kaj klaku al la dosiereto kiun vi volas redakti
 ![alt text](/gvidbildoj/klakuallanomo.png "★")
@@ -44,17 +44,17 @@ Vi povas komenci diskuton pri ia ajn temo tie
 ![alt text](/gvidbildoj/diskutu.png "★")
 
 
-# Komunajxoj
+# Komunaĵoj
 
-***Bonvolu ne tajpi per la -x aux la -h sistemo kaj anstatauxe uzu esperantan klavaron***
+***Bonvolu ne tajpi per la -x aŭ la -h sistemo kaj anstataŭe uzu esperantan klavaron***
 
-Ni decidu antauxen la komunaj vortoj.
+Ni decidu antaŭen la komunaj vortoj.
 
-Se io tro maltauxgaspektas ekparolu!
+Se io tro maltaŭgaspektas ekparolu!
 
-Ni cxiuj uzu la samajn vortojn por tiuj kiuj aperas tra la tuta filmo
+Ni ĉiuj uzu la samajn vortojn por tiuj kiuj aperas tra la tuta filmo
 
-La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de pluralo aux akuzativo :
+La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de pluralo aŭ akuzativo :
 
 
 |Angla           | Esperanto      |
@@ -69,11 +69,11 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 |Gurney          |Gerni           |
 |Sardaukar       |Sardokar        |
 |Lisan al-Gaib   |Lisan al-Gajb   |
-|Shai-Hulud      |Sxaj-Hulud      |
-|Bene Gesserit   |Bene Gxeserit   |
+|Shai-Hulud      |Ŝaj-Hulud      |
+|Bene Gesserit   |Bene Ĝeserit   |
 |Yueh            |Jueh            |
 |Liet Kynes      |Liet Kajns      |
-|Kwisatz Haderach|Kuxisatz Haderak|
+|Kwisatz Haderach|Kŭisatz Haderak|
 
 
 
@@ -96,7 +96,7 @@ La nomoj estu nur fonetike tradukitaj kaj ili ne havu diferencajn formoj de plur
 
 - house estu Domo ....  ni majuskligu la unuan literon
 
-- the one estu .... Tiu antauxvidita aux profetita
+- the one estu .... Tiu antaŭvidita aŭ profetita
 
 
 Finfine , la projekto ne emas sentigi devon.<br/>
@@ -105,7 +105,7 @@ Oni ricevu , prilaboru kaj rezignu siajn arkivetojn senhonte
 
 Ne hezitu kontakti min pri io ajn. 
 
-**Cxia korekto aux sugesto estas ege bonvena**
+**Ĉia korekto aŭ sugesto estas ege bonvena**
 
 
 
