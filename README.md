@@ -35,8 +35,7 @@ Kaj poste klaku al la krajono
 **Bonvole lasu malplenan linion post la teksto tiel**
 ![alt text](/gvidbildoj/lasulinion.png "Estas la .srt formato")
 
-Ne forgesu marki la dosiereton kiel "farita" post la fino
-
+Ne forgesu marki la dosiereton kiel "farita" post la fino, 
 kaj elektu 'commit directly to the main branch'
 ![alt text](/gvidbildoj/farita2.png "★")
 
