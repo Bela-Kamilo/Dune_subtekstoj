@@ -37,7 +37,7 @@ Kaj poste klaku al la krajono
 
 Ne forgesu marki la dosiereton kiel "farita" post la fino
 kaj elektu 'commit directlŭ to the main branch'
-![alt text](/gvidbildoj/farita.png "★")
+![alt text](/gvidbildoj/farita2.png "★")
 
 
 Vi povas komenci diskuton pri ia ajn temo tie
