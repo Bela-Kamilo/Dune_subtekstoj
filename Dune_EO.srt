@@ -4443,7 +4443,7 @@ Dezerta povo.
 
 1001
 02:21:21,719 --> 02:21:26,200
-<font color=”#73d216″><i>Kontribuis :23,719</i></font>
+<font color=”#73d216″><i>Kontribuis :</i></font>
 
 1002
 02:21:26,700 --> 02:21:30,000
