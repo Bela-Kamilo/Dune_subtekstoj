@@ -36,7 +36,8 @@ Kaj poste klaku al la krajono
 ![alt text](/gvidbildoj/lasulinion.png "Estas la .srt formato")
 
 Ne forgesu marki la dosiereton kiel "farita" post la fino
-kaj elektu 'commit directlŭ to the main branch'
+
+kaj elektu 'commit directly to the main branch'
 ![alt text](/gvidbildoj/farita2.png "★")
 
 
