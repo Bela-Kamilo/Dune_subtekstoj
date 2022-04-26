@@ -1,6 +1,6 @@
 40
 00:05:52,640 --> 00:05:55,520
-<ι>Konataj al la Fremen kiel
+<i>Konataj al la Fremen kiel
 Ŝaj-Hulud</i>
 
 41
@@ -14,7 +14,7 @@ la tribo iliajn karakterizajn bluajn okulojn</i>
 
 43
 00:06:03,280 --> 00:06:05,720
-<i>Malmultaj koniĝas pri la Fremen</i>
+<i>Malmultaj estas konataj  pri la Fremen</i>
 
 44
 00:06:05,880 --> 00:06:08,800
