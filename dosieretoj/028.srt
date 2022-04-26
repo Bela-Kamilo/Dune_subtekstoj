@@ -3,7 +3,7 @@
 Ŝildojn
 
 281
-00:33:31,600 --> 00:33:35,680
+00:33:31,600 --> 00:33:36,680
 "Miaj pulmoj gustumas la aeron de Tempo,
 Blovanta foren falantan sablon"
 
@@ -21,7 +21,7 @@ marŝanta sur la nova mondo?
 Ekscitita, almenaŭ
 
 285
-00:34:30,280 --> 00:34:32,960
+00:34:30,280 --> 00:34:33,560
 -Lordo mia
 -Kiel vi fartas, malnova amiko?
 
@@ -30,7 +30,7 @@ Ekscitita, almenaŭ
 Mia antaŭa teamo sekurigis la urbon
 
 287
-00:34:36,343 --> 00:34:38,116
+00:34:36,343 --> 00:34:39,116
 Ni ankoraŭ prizorgas 
 iujn krudajn lokojn
 
