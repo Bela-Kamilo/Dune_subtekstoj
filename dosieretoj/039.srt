@@ -6,10 +6,10 @@ nenion al nia ordo
 391
 00:46:13,120 --> 00:46:17,040
 Sed lia edzino estas sub nia prokteto,
-kaj laŭ ,sia filo.
+kaj sekve,sia filo.
 
 392
-00:46:17,200 --> 00:46:19,880
+00:46:17,200 --> 00:46:20,380
 Permesu al ili la dignon de ekzilo
 
 393
@@ -43,5 +43,5 @@ Sed Arakis estas Arakis
 
 399
 00:47:06,480 --> 00:47:09,400
-Kaj la dezerto prenas la malfortaj
+Kaj la dezerto prenas la malfortajn
 
