@@ -3,11 +3,11 @@
 Revido sur Arakis , mia knabo
 
 101
-00:12:50,920 --> 00:12:52,730
+00:12:50,920 --> 00:12:53,530
 Patro, mi petas aliĝi kun Dankan Idaho
 
 102
-00:12:52,914 --> 00:12:54,720
+00:12:53,714 --> 00:12:55,120
 al skolta misio al Arakis morgaŭ
 
 103
@@ -40,6 +40,6 @@ Kaj avo batalis kontraŭ virbovojn
 kiel sporto
 
 109
-00:13:11,000 --> 00:13:14,200
+00:13:11,000 --> 00:13:14,700
 jes , atentu kiel tio estigis lin
 
