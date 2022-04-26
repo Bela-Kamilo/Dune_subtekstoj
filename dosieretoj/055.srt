@@ -35,9 +35,9 @@ Signo de vermo norden kaj orienten de vi.
 3.7 kilometrojn
 
 558
-00:59:08,720 --> 00:59:11,720
+00:59:08,720 --> 00:59:12,720
 <i>Delta Ajaks 9, tio estas lokalizilo 1,
-proksimiĝo de vermo konfirmita
+proksimiĝo de vermo konfirmita</i>
 
 559
 00:59:13,160 --> 00:59:15,720
