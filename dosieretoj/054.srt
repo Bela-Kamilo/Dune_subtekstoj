@@ -3,12 +3,12 @@
 Riĉa spico videbla laŭ koloro
 
 541
-00:57:46,680 --> 00:57:49,108
+00:57:46,680 --> 00:57:50,108
 Se oni iros iom pli alten
 si havos pli bonan vidon
 
 542
-00:58:03,440 --> 00:58:05,640
+00:58:03,440 --> 00:58:07,240
 Oni vidas tiajn lokalizantajn aviadilojn
 serĉantaj por signoj de vermoj
 
@@ -18,10 +18,10 @@ Signoj de vermoj?
 
 544
 00:58:09,080 --> 00:58:11,143
-Sabla ondo moviĝanta al la rikoltilo
+Sabla ondo moviĝanta al la rikoltilon
 
 545
-00:58:11,313 --> 00:58:14,728
+00:58:11,313 --> 00:58:15,428
 Vermoj vojaĝas profunde 
 sed proksimiĝas kiam ili atakas
 
@@ -32,7 +32,7 @@ Se vi estas pacienca, ni rigardu unu
 547
 00:58:19,880 --> 00:58:23,840
 -Ĉu vermo ĉiam venas?
--Ĉiam, ilin alogas ritmaj bruo
+-Ĉiam, ilin alogas ritmaj bruoj
 
 548
 00:58:24,000 --> 00:58:25,957
