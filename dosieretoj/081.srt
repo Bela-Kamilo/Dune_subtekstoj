@@ -6,7 +6,7 @@ alternativon al Ĥaoso
 811
 01:43:22,160 --> 01:43:25,560
 Kaj la Imperiestro ne havas filojn,
-kaj liaj filinoj ankoraŭ ne edziniĝis
+kaj liaj filinoj ne edziniĝis
 
 812
 01:43:25,720 --> 01:43:28,392
@@ -22,7 +22,7 @@ Li venigis vin tie ĉi por mortigi vin
 Kion vi ne komprenas?
 
 815
-01:43:34,680 --> 01:43:37,480
+01:43:34,680 --> 01:43:38,480
 Vi estas perdita knabo kaŝata
 en truo en la tero
 
@@ -35,7 +35,7 @@ La Fremen priparolas pri la Lisan al-Gajb
 Estu singarda
 
 818
-01:43:46,800 --> 01:43:50,240
+01:43:46,800 --> 01:43:50,840
 La voĉo de la Ekstera Mondo
 kiu gvidos ilin al edeno
 
