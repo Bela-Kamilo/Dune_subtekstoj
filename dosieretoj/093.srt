@@ -3,15 +3,15 @@
 Sed la virino ne estas trejnita
 
 931
-02:08:57,119 --> 02:08:58,346
+02:08:57,119 --> 02:08:59,146
 Kaj tro maljunas por lerni
 
 932
-02:09:29,480 --> 02:09:30,817
+02:09:29,480 --> 02:09:31,017
 Foriru, hundaĉoj
 
 933
-02:09:32,175 --> 02:09:33,504
+02:09:32,175 --> 02:09:34,004
 Ŝi tranĉos mian gorĝon
 
 934
@@ -28,7 +28,7 @@ La konversacio mallongis
 Paco, virino, paco.
 
 937
-02:09:49,659 --> 02:09:50,825
+02:09:49,659 --> 02:09:51,825
 Mi juĝis fuŝe
 
 938
@@ -37,5 +37,5 @@ La suno leviĝas.
 Ni devas atingi siĉon Tabr
 
 939
-02:10:05,240 --> 02:10:07,800
+02:10:05,240 --> 02:10:08,300
 Oni decidos la sorton de la fremduloj tie
