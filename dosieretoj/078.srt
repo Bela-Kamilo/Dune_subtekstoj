@@ -1,12 +1,12 @@
 780
 01:40:17,115 --> 01:40:20,280
 La Harkonen trafis ĉiun loĝantaran centron
-sur la tuta planedo samtempe
+sur la planedo samtempe
 
 781
 01:40:20,440 --> 01:40:22,739
 Estus dek legioj,
-centoj de ŝipoj
+centoj da ŝipoj
 
 782
 01:40:22,999 --> 01:40:24,476
@@ -31,8 +31,8 @@ Kion diras la Juĝisto de la Ŝanĝo?
 
 787
 01:40:39,106 --> 01:40:41,180
-La Imperiestro malpermesas ke mi
-diru ion ajn
+La Imperiestro malpermesas al mi
+diri ion ajn
 
 788
 01:40:41,320 --> 01:40:44,200
