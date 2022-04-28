@@ -1,15 +1,15 @@
 820
-01:43:57,520 --> 01:44:01,560
+01:43:57,520 --> 01:44:02,560
 Mi scias ke vi amis Fremen militiston
 kaj perdis lin en batalo
 
 821
-01:44:03,560 --> 01:44:06,920
+01:44:03,560 --> 01:44:07,920
 Mi scias ke vi marŝas je 2 mondoj
 kaj estas nomita per multaj nomoj
 
 822
-01:44:11,840 --> 01:44:13,800
+01:44:11,840 --> 01:44:14,300
 Mi vidis vian revon
 
 823
@@ -17,7 +17,7 @@ Mi vidis vian revon
 Kiel Imperiestro, D-ro Kajns
 
 824
-01:44:19,459 --> 01:44:22,495
+01:44:19,459 --> 01:44:23,495
 Mi povus fari edenon por Arakis
 per movo de mia mano
 
