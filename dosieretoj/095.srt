@@ -1,5 +1,5 @@
 950
-02:11:28,840 --> 02:11:32,859
+02:11:28,840 --> 02:11:32,959
 Cani, prizorgu la novulojn.
 Faru ke ili estas sekuraj dum la vojaĝo
 
@@ -29,7 +29,7 @@ sed la plejfortaj estras
 Mi alvokas la Amtal
 
 957
-02:11:56,720 --> 02:12:00,080
+02:11:56,720 --> 02:12:00,140
 -Vi ne defiu sajadinon
 -Do kiu batalos anstataŭ ŝin?
 
