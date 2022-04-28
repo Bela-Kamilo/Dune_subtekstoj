@@ -24,20 +24,20 @@ Kion vi diris?
 "Tie ĉi mi estas, tie ĉi mi restas"
 
 746
-01:32:54,320 --> 01:32:57,720 
+01:32:54,320 --> 01:32:57,800 
 -Kajns
 -Ne estas sekure por vi ĉi tie
 
 747
 01:32:57,880 --> 01:33:00,899
-Ĉu vi diros al la Granda Domo de la
-Landsraad kiel ni estis perfiditaj
+Ĉu vi diros al la Granda Domo de Landsraad
+kiel ni estis perfiditaj
 
 748
-01:33:00,999 --> 01:33:02,417
+01:33:00,999 --> 01:33:03,000
 Kiel la plej bonaj el ili estis murditaj
 
 749
-01:33:03,320 --> 01:33:08,040
+01:33:03,320 --> 01:33:09,040
 Mi estas komandita diri nenion,
 vidi nenion
