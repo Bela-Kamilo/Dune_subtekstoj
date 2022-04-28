@@ -7,16 +7,16 @@
 Prenu mian ĵuron
 
 942
-02:10:28,847 --> 02:10:30,839
+02:10:28,847 --> 02:10:31,839
 Mi ne permesus al vi 
 vundi miajn amikojn
 
 943
-02:10:55,200 --> 02:10:56,791
+02:10:55,200 --> 02:10:57,291
 Oni diras ke vi estas la Mahdi
 
 944
-02:10:57,510 --> 02:10:59,312
+02:10:57,510 --> 02:10:59,812
 Sed vi aspektas kiel eta knabo
 
 945
@@ -28,7 +28,7 @@ Vi elektis la malfacilan vojon
 Ek! Ek!
 
 947
-02:11:10,760 --> 02:11:11,974
+02:11:10,760 --> 02:11:12,474
 Donu ĝin al mi
 
 948
