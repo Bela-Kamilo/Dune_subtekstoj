@@ -1,9 +1,9 @@
 650
-01:10:26,320 --> 01:10:28,840
+01:10:26,320 --> 01:10:29,540
 Tri batalionoj kiel konsentite
 
 651
-01:10:33,120 --> 01:10:37,120
+01:10:33,120 --> 01:10:37,820
 Kiel la Imperiestro komandas.
 Estos farite
 
@@ -16,13 +16,12 @@ Ekzistas io kion vi devas scii ,Pol
 Ne. Mi ne pensas ke mi volas scii
 
 654
-01:11:13,960 --> 01:11:16,187
+01:11:13,960 --> 01:11:18,187
 Ekde kiam vi portis lin antaŭ 
-vian reverendan patrinon
+vian reverendan patrinon li ne estas la sama
 
 655
-01:11:16,287 --> 01:11:18,001
-Li ne estis la sama
+01:11:18,188 --> 01:11:18,189
 
 656
 01:11:19,480 --> 01:11:22,480
@@ -38,7 +37,7 @@ Kaj ekde la momenton kiam li estis naskita
 mi neniam pridubis vin
 
 659
-01:11:29,160 --> 01:11:33,440
+01:11:29,160 --> 01:11:34,140
 Mi plene fidis al vi,
 eĉ kiam vi estis marŝanta en ombrojn
 
