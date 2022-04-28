@@ -1,28 +1,28 @@
 980
 02:16:49,720 --> 02:16:51,880
-La knabo ne scias nian regulon.
+La knabo ne scias nian kodon.
 
 981
 02:16:52,031 --> 02:16:55,818
-La ATMAL regulo ne cedas.
-Morto estas la pruvo
+Oni ne cedas laŭ la Amtal kodo .
+Morto estas ties atesto
 
 982
 02:17:04,000 --> 02:17:05,696
--Ĉu li estas ladanta kun mi.
+-Ĉu li estas ludanta kun li.
 -Ne.
 
 983
-02:17:07,120 --> 02:17:08,561
+02:17:07,120 --> 02:17:09,061
 Paul, ĝis nun, neniam mortigis homon.
 
 984
 02:17:19,320 --> 02:17:22,920
-<i>Kwisatz Haderach.</i>
+<i>Kŭisatz Haderak.</i>
 
 985
 02:17:26,160 --> 02:17:29,040
-<i>Kwisatz Haderach.</i>
+<i>Kŭisatz Haderak.</i>
 
 986
 02:17:29,200 --> 02:17:32,760
@@ -34,10 +34,10 @@ Nun vi estas unu de ni. Vivo kontraŭ vivo.
 
 988
 02:19:24,640 --> 02:19:27,440
--Venu kun ni al Sietch Tabr.
+-Venu kun ni al siĉ Tabr.
 -Ne.
 
 989
 02:19:27,600 --> 02:19:29,080
-Paul bezonas eliri de la mondo.
+Pol devas foriri la mondon.
 
