@@ -2,13 +2,14 @@
 00:00:04,120 --> 00:00:08,690
 Sonĝoj estas mesaĝoj de profunde
 
+
 2
 00:00:12,000 --> 00:00:17,000
 <font color="#73d216"><i>Subtitoloj komune faritaj ★</i></font>
 
+
 3
-00:00:17,100 --> 00:00:22,000
-<font color="#73d216"><i>https://github.com/Bela-Kamilo/Dune_subtekstoj</i> </font>
+00:00:50,314 --> 00:00:52,190
 
 4
 00:00:52,440 --> 00:00:56,600
@@ -63,7 +64,7 @@ ili obscene riĉiĝis</i>
 Arakis de la Harkonen</i>
 
 15
-00:02:41,040 --> 00:02:45,080
+00:02:41,040 --> 00:02:45,580
 <i>Sed iutage, laŭ imperia dekreto
 ili foriris</i>
 
@@ -184,7 +185,7 @@ inter si kaj la gigantaj sablovermoj</i>
 
 40
 00:05:52,640 --> 00:05:55,520
-<ι>Konataj al la Fremen kiel
+<i>Konataj al la Fremen kiel
 Ŝaj-Hulud</i>
 
 41
@@ -198,7 +199,7 @@ la tribo iliajn karakterizajn bluajn okulojn</i>
 
 43
 00:06:03,280 --> 00:06:05,720
-<i>Malmultaj koniĝas pri la Fremen</i>
+<i>Malmultaj estas konataj  pri la Fremen</i>
 
 44
 00:06:05,880 --> 00:06:08,800
@@ -301,7 +302,7 @@ Kaj servi kiel ties intendanto"
 
 65
 00:08:40,960 --> 00:08:42,880
-Ni estsas la Domo Atridis
+Ni estas la Domo Atridis
 
 66
 00:08:43,840 --> 00:08:47,520
@@ -445,6 +446,7 @@ Sed ĉio grava okazas dum maldormo
 00:12:06,480 --> 00:12:09,440
 -Spektu vin, ĉu vi muskoliĝis?
 -Ĉu?
+
 99
 00:12:09,600 --> 00:12:10,800
 Ne.
@@ -454,11 +456,11 @@ Ne.
 Revido sur Arakis , mia knabo
 
 101
-00:12:50,920 --> 00:12:52,730
+00:12:50,920 --> 00:12:53,530
 Patro, mi petas aliĝi kun Dankan Idaho
 
 102
-00:12:52,914 --> 00:12:54,720
+00:12:53,714 --> 00:12:55,120
 al skolta misio al Arakis morgaŭ
 
 103
@@ -491,7 +493,7 @@ Kaj avo batalis kontraŭ virbovojn
 kiel sporto
 
 109
-00:13:11,000 --> 00:13:14,200
+00:13:11,000 --> 00:13:14,700
 jes , atentu kiel tio estigis lin
 
 
@@ -556,12 +558,12 @@ aranĝi
 
 123
 00:14:05,120 --> 00:14:08,800
-Tie ĉi, ĉe Kaladan, ni regas
+Tie ĉi, sur Kaladan, ni regas
 per aera kaj mara povo
 
 124
 00:14:08,960 --> 00:14:12,600
-Ĉe Arakis, ni bezonas kultivi
+Sur Arakis, ni bezonas kultivi
 dezertan povon
 
 125
@@ -589,7 +591,7 @@ ke mi ne volis tion
 
 130
 00:14:45,160 --> 00:14:49,440
--Mi volis estiĝi piloto
+-Mi volis farĝi piloto
 -Vi neniam diris tion al mi
 
 131
@@ -660,7 +662,7 @@ Elektu vian klingon
 
 146
 00:16:03,800 --> 00:16:08,000
-Mi havis penigan tagon , Gerni.
+Mi havis malfacilan tagon , Gerni.
 Kantu al ni anstataŭe
 
 147
@@ -1124,7 +1126,7 @@ Le devis ekzameniĝi ĉe la limoj
 
 251
 00:28:14,760 --> 00:28:17,010
-Tiom da potenco malŝparita en la masklo
+Tiom da potenco malŝparita en la knabo
 
 252
 00:28:17,903 --> 00:28:19,598
@@ -1254,7 +1256,7 @@ Iuj jam pensas ke li alvenis
 Ŝildojn
 
 281
-00:33:31,600 --> 00:33:35,680
+00:33:31,600 --> 00:33:36,680
 "Miaj pulmoj gustumas la aeron de Tempo,
 Blovanta foren falantan sablon"
 
@@ -1272,7 +1274,7 @@ marŝanta sur la nova mondo?
 Ekscitita, almenaŭ
 
 285
-00:34:30,280 --> 00:34:32,960
+00:34:30,280 --> 00:34:33,560
 -Lordo mia
 -Kiel vi fartas, malnova amiko?
 
@@ -1281,7 +1283,7 @@ Ekscitita, almenaŭ
 Mia antaŭa teamo sekurigis la urbon
 
 287
-00:34:36,343 --> 00:34:38,116
+00:34:36,343 --> 00:34:39,116
 Ni ankoraŭ prizorgas 
 iujn krudajn lokojn
 
@@ -1423,13 +1425,11 @@ Ni bezonas sigeli la pordojn
 Kion oni diras pri tiu lokaĉo ?
 
 319
-00:39:04,320 --> 00:39:06,173
+00:39:04,320 --> 00:39:07,740
 "Por duŝi sin , oni frotas la pugon per sablo"
 
-
 320
-00:39:06,398 --> 00:39:07,740
-Mia Lordo, tio estas kion oni diras
+00:39:07,741 --> 00:39:07,742
 
 321
 00:39:08,040 --> 00:39:09,920
@@ -1553,7 +1553,7 @@ tiaj tagaj horoj
 Ili estas ĉi ekstere
 
 350
-00:42:09,480 --> 00:42:13,280
+00:42:09,480 --> 00:42:14,080
 Fremen pilgrimantoj.
 Ili ne zorgas pri la suno
 
@@ -1567,7 +1567,7 @@ Tiuj ne estas denaskaj.
 Ili ne povas travivi sen mi
 
 353
-00:42:23,320 --> 00:42:27,360
+00:42:23,320 --> 00:42:28,360
 Ĉiu el ili trinkas ĉiutage
 kiom trinkas kvin viroj
 
@@ -1599,7 +1599,7 @@ organismo sur Arakis estas la sablovermo</i>
 
 360
 00:43:02,160 --> 00:43:06,080
-<i>Por eviti fari ritmaj sonoj
+<i>Por eviti fari ritmajn sonojn
 kiuj allogas la sablovermojn</i>
 
 361
@@ -1739,10 +1739,10 @@ nenion al nia ordo
 391
 00:46:13,120 --> 00:46:17,040
 Sed lia edzino estas sub nia prokteto,
-kaj laŭ ,sia filo.
+kaj sekve,sia filo.
 
 392
-00:46:17,200 --> 00:46:19,880
+00:46:17,200 --> 00:46:20,380
 Permesu al ili la dignon de ekzilo
 
 393
@@ -1776,7 +1776,7 @@ Sed Arakis estas Arakis
 
 399
 00:47:06,480 --> 00:47:09,400
-Kaj la dezerto prenas la malfortaj
+Kaj la dezerto prenas la malfortajn
 
 
 400
@@ -1825,7 +1825,7 @@ raportaj libroj de la Harkonen
 
 410
 00:47:55,440 --> 00:48:00,400
-La Harkonen estis prenantaj 10 bilionojn
+La Harkonen estis prenantaj 10 miliardojn
 solaris el tie ĉi ,ĉiujare
 
 411
@@ -1843,7 +1843,7 @@ dum iom da tempo
 
 414
 00:48:06,994 --> 00:48:08,935
-Ne per la ekipaĵo ili lasis al ni
+Ne per la ekipaĵo kiun ili lasis al ni
 
 415
 00:48:09,880 --> 00:48:11,400
@@ -1885,7 +1885,7 @@ por kontroli la transiron?
 
 424
 00:48:38,800 --> 00:48:41,840
-Estis tie ĉi dum 20 jaroj.
+Ĉeestis dum 20 jaroj.
 Ekscentra, laŭ kion mi aŭdis
 
 425
@@ -1971,7 +1971,7 @@ Miloj da Fremen. Vi pravis
 
 443
 00:50:01,120 --> 00:50:04,800
-La taksoado de la Harkonen estis
+La taksado de la Harkonen estis
 kvin dek mil sur la tuta planedo
 
 444
@@ -2242,7 +2242,7 @@ Atentu ĝis vidanta.
 
 502
 00:53:54,520 --> 00:53:56,440
-Estas belega ĉi tie ekstere.
+Estas belege ĉi tie ekstere.
 
 503
 00:53:59,000 --> 00:54:01,400
@@ -2285,7 +2285,7 @@ Dankon pro la distilkostumoj.
 
 512
 00:54:55,400 --> 00:54:57,960
-Ili estas Fremen-farita, la plej bona.
+Ili estas Fremen-farita, la plej bonaj.
 
 513
 00:54:58,120 --> 00:55:00,400
@@ -2416,12 +2416,12 @@ sur la surfaco
 Riĉa spico videbla laŭ koloro
 
 541
-00:57:46,680 --> 00:57:49,108
+00:57:46,680 --> 00:57:50,108
 Se oni iros iom pli alten
 si havos pli bonan vidon
 
 542
-00:58:03,440 --> 00:58:05,640
+00:58:03,440 --> 00:58:07,240
 Oni vidas tiajn lokalizantajn aviadilojn
 serĉantaj por signoj de vermoj
 
@@ -2431,10 +2431,10 @@ Signoj de vermoj?
 
 544
 00:58:09,080 --> 00:58:11,143
-Sabla ondo moviĝanta al la rikoltilo
+Sabla ondo moviĝanta al la rikoltilon
 
 545
-00:58:11,313 --> 00:58:14,728
+00:58:11,313 --> 00:58:15,428
 Vermoj vojaĝas profunde 
 sed proksimiĝas kiam ili atakas
 
@@ -2445,7 +2445,7 @@ Se vi estas pacienca, ni rigardu unu
 547
 00:58:19,880 --> 00:58:23,840
 -Ĉu vermo ĉiam venas?
--Ĉiam, ilin alogas ritmaj bruo
+-Ĉiam, ilin alogas ritmaj bruoj
 
 548
 00:58:24,000 --> 00:58:25,957
@@ -2464,7 +2464,7 @@ kaj frenezigas ilin
 
 551
 00:58:35,440 --> 00:58:37,640
-Ĉi tio estas vermo?
+Ĉu tio estas vermo?
 
 552
 00:58:48,040 --> 00:58:48,898
@@ -2494,9 +2494,9 @@ Signo de vermo norden kaj orienten de vi.
 3.7 kilometrojn
 
 558
-00:59:08,720 --> 00:59:11,720
+00:59:08,720 --> 00:59:12,720
 <i>Delta Ajaks 9, tio estas lokalizilo 1,
-proksimiĝo de vermo konfirmita
+proksimiĝo de vermo konfirmita</i>
 
 559
 00:59:13,160 --> 00:59:15,720
@@ -2873,7 +2873,7 @@ Vi ne povas tion scii
 
 642
 01:09:17,840 --> 01:09:20,920
-Mi apenaŭ scias tion kaj pasis nur kelkaj semajnon
+Mi apenaŭ scias tion kaj pasis nur kelkaj semajnojn
 
 643
 01:09:27,360 --> 01:09:30,720
@@ -2908,11 +2908,11 @@ Tiel estas
 
 
 650
-01:10:26,320 --> 01:10:28,840
+01:10:26,320 --> 01:10:29,540
 Tri batalionoj kiel konsentite
 
 651
-01:10:33,120 --> 01:10:37,120
+01:10:33,120 --> 01:10:37,820
 Kiel la Imperiestro komandas.
 Estos farite
 
@@ -2925,13 +2925,12 @@ Ekzistas io kion vi devas scii ,Pol
 Ne. Mi ne pensas ke mi volas scii
 
 654
-01:11:13,960 --> 01:11:16,187
+01:11:13,960 --> 01:11:18,187
 Ekde kiam vi portis lin antaŭ 
-vian reverendan patrinon
+vian reverendan patrinon li ne estas la sama
 
 655
-01:11:16,287 --> 01:11:18,001
-Li ne estis la sama
+01:11:18,188 --> 01:11:18,189
 
 656
 01:11:19,480 --> 01:11:22,480
@@ -2947,7 +2946,7 @@ Kaj ekde la momenton kiam li estis naskita
 mi neniam pridubis vin
 
 659
-01:11:29,160 --> 01:11:33,440
+01:11:29,160 --> 01:11:34,140
 Mi plene fidis al vi,
 eĉ kiam vi estis marŝanta en ombrojn
 
@@ -3005,7 +3004,7 @@ Mi devus edziĝi kun vi
 
 672
 01:14:27,920 --> 01:14:30,600
-Hawat. Gardistoj 
+Hawat. Gardistoj
 
 673
 01:14:31,840 --> 01:14:33,520
@@ -3024,8 +3023,8 @@ La ŝildo malleviĝis
 Dio mia
 
 677
-01:15:48,200 --> 01:15:50,440
-Elterigu ĉion portantan pafiloj! Ek!
+01:15:48,200 --> 01:15:51,440
+Elterigu ĉion kio portas pafilojn! Ek!
 
 678
 01:17:34,400 --> 01:17:36,280
@@ -3118,7 +3117,7 @@ Kial ne simple tranĉi ties gorĝojn?
 Eblas ke oni uzos Verdirilon
 
 699
-01:21:57,160 --> 01:21:59,800
+01:21:57,160 --> 01:22:00,400
 Tiel ni povas honeste respondi
 ke ni ne mortigis ilin
 
@@ -3205,7 +3204,7 @@ Via tono estis tro perfortita
 
 719
 01:26:29,712 --> 01:26:30,920
-Estas Fremnecesujo
+Estas necesujo
 
 
 720
@@ -3242,7 +3241,7 @@ La perfidanto?
 Kion vi volas?
 
 728
-01:29:02,280 --> 01:29:05,760
+01:29:02,280 --> 01:29:06,760
 Mi difektigis ilian komunikadon
 kaj mallevigis iliajn ŝildojn
 
@@ -3274,7 +3273,7 @@ kaj ke vi povus kuniĝi kun ŝi
 Do kuniĝu kun ŝi
 
 735
-01:30:10,720 --> 01:30:12,640
+01:30:10,720 --> 01:30:13,640
 Kion vi imagas, ke sekvas
 
 736
@@ -3321,21 +3320,21 @@ Kion vi diris?
 "Tie ĉi mi estas, tie ĉi mi restas"
 
 746
-01:32:54,320 --> 01:32:57,720 
+01:32:54,320 --> 01:32:57,800 
 -Kajns
 -Ne estas sekure por vi ĉi tie
 
 747
 01:32:57,880 --> 01:33:00,899
-Ĉu vi diros al la Granda Domo de la
-Landsraad kiel ni estis perfiditaj
+Ĉu vi diros al la Granda Domo de Landsraad
+kiel ni estis perfiditaj
 
 748
-01:33:00,999 --> 01:33:02,417
+01:33:00,999 --> 01:33:03,000
 Kiel la plej bonaj el ili estis murditaj
 
 749
-01:33:03,320 --> 01:33:08,040
+01:33:03,320 --> 01:33:09,040
 Mi estas komandita diri nenion,
 vidi nenion
 
@@ -3348,16 +3347,16 @@ La Imperiestro sendis nin ĉi tie por morti
 Spico en la rezervujo
 
 752
-01:35:23,360 --> 01:35:25,493
-Tio estas la estonteco. Ĝi proksimiĝas
+01:35:23,360 --> 01:35:26,993
+Tiel estas la estonteco. Ĝi proksimiĝas
 
 753
-01:35:39,820 --> 01:35:42,960
+01:35:39,820 --> 01:35:44,460
 La sankta milito disvastiĝas tra la universo 
 kiel ne estingebla fajro
 
 754
-01:35:55,640 --> 01:36:00,760
+01:35:55,640 --> 01:36:01,260
 Pol, vi timas. Mi povas vidi tion.
 Diru al mi, bonvolu, kion vi timas?
 
@@ -3376,13 +3375,13 @@ La sankta milito disvastiĝas tra la universo
 kiel ne estingebla fajro
 
 758
-01:36:21,360 --> 01:36:26,280
+01:36:21,360 --> 01:36:26,380
 Batalanta regiono kiu flirtas 
 la flagon de Atridis je la nomo de mia patro
 
 759
 01:36:26,494 --> 01:36:31,040
-Fanatikaj lagioj kultantaj ĉe la sanktejo 
+Fanatikaj legioj kultantaj ĉe la sanktejo 
 de la kranio de mia patro
 
 
@@ -3418,7 +3417,7 @@ Foriru
 767
 01:36:54,240 --> 01:36:58,680
 Vi faris tion al mi!
-Viaj Bene Ĝeserit faris min monstro!
+Vi, Bene Ĝeserit, faris min monstro!
 
 768
 01:37:22,520 --> 01:37:24,720
@@ -3473,12 +3472,12 @@ Trinku tion
 780
 01:40:17,115 --> 01:40:20,280
 La Harkonen trafis ĉiun loĝantaran centron
-sur la tuta planedo samtempe
+sur la planedo samtempe
 
 781
 01:40:20,440 --> 01:40:22,739
 Estus dek legioj,
-centoj de ŝipoj
+centoj da ŝipoj
 
 782
 01:40:22,999 --> 01:40:24,476
@@ -3503,8 +3502,8 @@ Kion diras la Juĝisto de la Ŝanĝo?
 
 787
 01:40:39,106 --> 01:40:41,180
-La Imperiestro malpermesas ke mi
-diru ion ajn
+La Imperiestro malpermesas al mi
+diri ion ajn
 
 788
 01:40:41,320 --> 01:40:44,200
@@ -3517,10 +3516,10 @@ La Ŝtormo alproskimiĝas
 790
 01:41:18,000 --> 01:41:22,520
 La Ŝtormo estos ĉi tie post kelkaj horoj.
-Ni estos sekuraj ĉi tie
+Ni estos sekuraj
 
 791
-01:41:22,680 --> 01:41:26,880
+01:41:22,680 --> 01:41:27,880
 Ĉu vi scias kio estas tiu loko?
 Estas malnova ekologia stacio
 
@@ -3556,15 +3555,15 @@ Jes, Liet
 
 799
 01:41:49,790 --> 01:41:52,560
-Kiu estas vi por la Fremen?
-
+-Ŝamir, kafon, bonvolŭ
+-kompreneble, Liet
 
 800
 01:41:54,940 --> 01:41:57,720
 Kiu estas vi por la Fremen?
 
 801
-01:42:44,680 --> 01:42:47,800
+01:42:44,680 --> 01:42:48,800
 Ĉu vi scias kion la grandaj Domoj
 plej timas, D-ro Kajns?
 
@@ -3573,7 +3572,7 @@ plej timas, D-ro Kajns?
 Ĝuste kio okazis al ni tie ĉi
 
 803
-01:42:52,120 --> 01:42:55,000
+01:42:52,120 --> 01:42:56,000
 Ke la Sardokar venu 
 mortigante ilin unu post la alia
 
@@ -3613,7 +3612,7 @@ alternativon al Ĥaoso
 811
 01:43:22,160 --> 01:43:25,560
 Kaj la Imperiestro ne havas filojn,
-kaj liaj filinoj ankoraŭ ne edziniĝis
+kaj liaj filinoj ne edziniĝis
 
 812
 01:43:25,720 --> 01:43:28,392
@@ -3629,7 +3628,7 @@ Li venigis vin tie ĉi por mortigi vin
 Kion vi ne komprenas?
 
 815
-01:43:34,680 --> 01:43:37,480
+01:43:34,680 --> 01:43:38,480
 Vi estas perdita knabo kaŝata
 en truo en la tero
 
@@ -3642,7 +3641,7 @@ La Fremen priparolas pri la Lisan al-Gajb
 Estu singarda
 
 818
-01:43:46,800 --> 01:43:50,240
+01:43:46,800 --> 01:43:50,840
 La voĉo de la Ekstera Mondo
 kiu gvidos ilin al edeno
 
@@ -3652,17 +3651,17 @@ Superstiĉoj
 
 
 820
-01:43:57,520 --> 01:44:01,560
+01:43:57,520 --> 01:44:02,560
 Mi scias ke vi amis Fremen militiston
 kaj perdis lin en batalo
 
 821
-01:44:03,560 --> 01:44:06,920
+01:44:03,560 --> 01:44:07,920
 Mi scias ke vi marŝas je 2 mondoj
 kaj estas nomita per multaj nomoj
 
 822
-01:44:11,840 --> 01:44:13,800
+01:44:11,840 --> 01:44:14,300
 Mi vidis vian revon
 
 823
@@ -3670,7 +3669,7 @@ Mi vidis vian revon
 Kiel Imperiestro, D-ro Kajns
 
 824
-01:44:19,459 --> 01:44:22,495
+01:44:19,459 --> 01:44:23,495
 Mi povus fari edenon por Arakis
 per movo de mia mano
 
@@ -3707,7 +3706,7 @@ Li perdiĝis
 Dankan!
 
 832
-01:47:18,489 --> 01:47:20,108
+01:47:18,489 --> 01:47:21,008
 Ni devas ekiri. Ni ne havas elekton
 
 833
@@ -3720,18 +3719,18 @@ Ek, ek!
 
 835
 01:48:20,120 --> 01:48:23,065
-Sekvu la lumon. Vi trovos thoptjeron
+Sekvu la lumon. Vi trovos toptjeron
 preta flugi
 
 836
 01:48:23,612 --> 01:48:25,278
-La ŝtormo ekstere estas
+La ŝtormo estas
 via plejbona opcio
 
 837
 01:48:25,400 --> 01:48:29,920
 Super 5000 metrojn, plejparte estas polvo.
-Engrimpu al ĝi .Restu supren.
+Engrimpu .Restu supren.
 
 838
 01:48:30,111 --> 01:48:33,019
@@ -3778,7 +3777,7 @@ Sia nomo estas Ŝaj-Hulud
 Estas jetoj antaŭ ni
 
 848
-01:52:43,600 --> 01:52:45,200
+01:52:43,600 --> 01:52:46,200
 Pol, ni estas nesufiĉe alte
 
 849
@@ -3881,11 +3880,11 @@ Kaj la Fremen?
 Mortigu ĉiujn
 
 872
-01:56:13,880 --> 01:56:15,360
+01:56:13,880 --> 01:56:16,360
 Ni estas je 5000 metrojn
 
 873
-01:57:49,400 --> 01:57:52,920
+01:57:49,400 --> 01:57:53,920
 Tuj post kiam ni surteriĝos, 
 kuru cele al la rokoj 
 
@@ -3966,21 +3965,21 @@ Ni transiros nokte.
 Tiel faras la Fremen
 
 892
-02:02:54,240 --> 02:02:56,121
+02:02:54,240 --> 02:02:56,821
 Ni estas enironta varman teritorion
 
 893
 02:02:56,919 --> 02:02:59,596
-Ni ne povas marŝi kiel regulaj homoj,
+Ni ne povas marŝi regule,
 se vi faros tion - ni estas mortaj
 
 894
-02:02:59,720 --> 02:03:03,160
+02:02:59,720 --> 02:03:03,260
 Ni devas marŝi kiel la Fremen.
 Oni nomas tion sabla marŝado
 
 895
-02:03:03,320 --> 02:03:05,383
+02:03:03,320 --> 02:03:06,083
 Almenaŭ laŭ la filmaj libroj
 ĉe la hejmo
 
@@ -3994,7 +3993,7 @@ En orde, sekvu min.
 Faru la samajn movojn
 
 898
-02:03:23,380 --> 02:03:24,931
+02:03:23,380 --> 02:03:25,931
 Mi pensas ke tio estas la ĝusta direkto
 
 899
@@ -4031,7 +4030,7 @@ Pol, kuru !
 
 907
 02:06:54,360 --> 02:06:58,200
-Kiom grandaj ili estas? 
+Kiom grandaj estas ili? 
 Tio estis freneze
 
 908
@@ -4140,15 +4139,15 @@ Eble li havas azilon
 Sed la virino ne estas trejnita
 
 931
-02:08:57,119 --> 02:08:58,346
+02:08:57,119 --> 02:08:59,146
 Kaj tro maljunas por lerni
 
 932
-02:09:29,480 --> 02:09:30,817
+02:09:29,480 --> 02:09:31,017
 Foriru, hundaĉoj
 
 933
-02:09:32,175 --> 02:09:33,504
+02:09:32,175 --> 02:09:34,004
 Ŝi tranĉos mian gorĝon
 
 934
@@ -4165,7 +4164,7 @@ La konversacio mallongis
 Paco, virino, paco.
 
 937
-02:09:49,659 --> 02:09:50,825
+02:09:49,659 --> 02:09:51,825
 Mi juĝis fuŝe
 
 938
@@ -4174,7 +4173,7 @@ La suno leviĝas.
 Ni devas atingi siĉon Tabr
 
 939
-02:10:05,240 --> 02:10:07,800
+02:10:05,240 --> 02:10:08,300
 Oni decidos la sorton de la fremduloj tie
 
 940
@@ -4186,16 +4185,16 @@ Oni decidos la sorton de la fremduloj tie
 Prenu mian ĵuron
 
 942
-02:10:28,847 --> 02:10:30,839
+02:10:28,847 --> 02:10:31,839
 Mi ne permesus al vi 
 vundi miajn amikojn
 
 943
-02:10:55,200 --> 02:10:56,791
+02:10:55,200 --> 02:10:57,291
 Oni diras ke vi estas la Mahdi
 
 944
-02:10:57,510 --> 02:10:59,312
+02:10:57,510 --> 02:10:59,812
 Sed vi aspektas kiel eta knabo
 
 945
@@ -4207,7 +4206,7 @@ Vi elektis la malfacilan vojon
 Ek! Ek!
 
 947
-02:11:10,760 --> 02:11:11,974
+02:11:10,760 --> 02:11:12,474
 Donu ĝin al mi
 
 948
@@ -4220,7 +4219,7 @@ kiam vi meritus ĝin
 Donu ĝin al mi
 
 950
-02:11:28,840 --> 02:11:32,859
+02:11:28,840 --> 02:11:32,959
 Cani, prizorgu la novulojn.
 Faru ke ili estas sekuraj dum la vojaĝo
 
@@ -4250,7 +4249,7 @@ sed la plejfortaj estras
 Mi alvokas la Amtal
 
 957
-02:11:56,720 --> 02:12:00,080
+02:11:56,720 --> 02:12:00,140
 -Vi ne defiu sajadinon
 -Do kiu batalos anstataŭ ŝin?
 
@@ -4265,7 +4264,7 @@ La suno atestos tiun morton
 
 
 960
-02:12:08,289 --> 02:12:09,958
+02:12:08,289 --> 02:12:10,958
 Kie ŝia ĉampiono?
 
 961
@@ -4278,7 +4277,7 @@ Mi akceptas ŝian ĉampionon
 
 963
 02:12:58,880 --> 02:13:03,160
-<i><Por ke Kŭisatz Haderak leviĝu</i>
+<i>Por ke Kŭisatz Haderak leviĝu</i>
 
 964
 02:13:05,920 --> 02:13:10,905
@@ -4308,12 +4307,12 @@ la granda sablovemro
 
 
 970
-02:14:19,720 --> 02:14:22,560
+02:14:19,720 --> 02:14:23,560
 Tio estus granda honoro ,
 ke vi mortu tenanta ĝin
 
 971
-02:14:26,600 --> 02:14:29,000
+02:14:26,600 --> 02:14:29,500
 Kie estas la eksterlandano?
 
 972
@@ -4352,29 +4351,29 @@ Pli rapidas tiel
 
 980
 02:16:49,720 --> 02:16:51,880
-La knabo ne scias nian regulon.
+La knabo ne scias nian kodon.
 
 981
 02:16:52,031 --> 02:16:55,818
-La ATMAL regulo ne cedas.
-Morto estas la pruvo
+Oni ne cedas laŭ la Amtal kodo .
+Morto estas ties atesto
 
 982
 02:17:04,000 --> 02:17:05,696
--Ĉu li estas ladanta kun mi.
+-Ĉu li estas ludanta kun li.
 -Ne.
 
 983
-02:17:07,120 --> 02:17:08,561
+02:17:07,120 --> 02:17:09,061
 Paul, ĝis nun, neniam mortigis homon.
 
 984
 02:17:19,320 --> 02:17:22,920
-<i>Kwisatz Haderach.</i>
+<i>Kŭisatz Haderak.</i>
 
 985
 02:17:26,160 --> 02:17:29,040
-<i>Kwisatz Haderach.</i>
+<i>Kŭisatz Haderak.</i>
 
 986
 02:17:29,200 --> 02:17:32,760
@@ -4386,7 +4385,7 @@ Nun vi estas unu de ni. Vivo kontraŭ vivo.
 
 988
 02:19:24,640 --> 02:19:27,440
--Venu kun ni al Sietch Tabr.
+-Venu kun ni al siĉ Tabr.
 -Ne.
 
 989
@@ -4421,7 +4420,7 @@ ne pro la spico, ne pro la riĉaĵoj
 sed pro la forto de via popolo.
 
 996
-02:19:50,080 --> 02:19:51,949
+02:19:50,080 --> 02:19:52,949
 Mia vojo gvidas vin ene de la dezerto.
 
 997
@@ -4438,7 +4437,7 @@ Dezerta povo.
 
 
 1000
-02:20:51,680 --> 02:20:53,184
+02:20:51,680 --> 02:20:54,184
 Ĉi tio estas nure la komenco
 
 1001
@@ -4447,12 +4446,16 @@ Dezerta povo.
 
 1002
 02:21:26,700 --> 02:21:30,000
-<font color=”#73d216″><i>Ernesto Alvarez.</i></font>
+<font color=”#73d216″><i>Ernesto Alvarez</i></font>
 
 
 1003
 02:21:31,000 --> 02:21:34,300
 <font color=”#73d216″><i>Mamey edal</i></font>
+
+
+
+
 
 
 
