@@ -7,16 +7,16 @@ La Imperiestro sendis nin ĉi tie por morti
 Spico en la rezervujo
 
 752
-01:35:23,360 --> 01:35:25,493
-Tio estas la estonteco. Ĝi proksimiĝas
+01:35:23,360 --> 01:35:26,993
+Tiel estas la estonteco. Ĝi proksimiĝas
 
 753
-01:35:39,820 --> 01:35:42,960
+01:35:39,820 --> 01:35:44,460
 La sankta milito disvastiĝas tra la universo 
 kiel ne estingebla fajro
 
 754
-01:35:55,640 --> 01:36:00,760
+01:35:55,640 --> 01:36:01,260
 Pol, vi timas. Mi povas vidi tion.
 Diru al mi, bonvolu, kion vi timas?
 
@@ -35,12 +35,12 @@ La sankta milito disvastiĝas tra la universo
 kiel ne estingebla fajro
 
 758
-01:36:21,360 --> 01:36:26,280
+01:36:21,360 --> 01:36:26,380
 Batalanta regiono kiu flirtas 
 la flagon de Atridis je la nomo de mia patro
 
 759
 01:36:26,494 --> 01:36:31,040
-Fanatikaj lagioj kultantaj ĉe la sanktejo 
+Fanatikaj legioj kultantaj ĉe la sanktejo 
 de la kranio de mia patro
 
