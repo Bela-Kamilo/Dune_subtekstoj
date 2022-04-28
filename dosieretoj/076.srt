@@ -30,7 +30,7 @@ Foriru
 767
 01:36:54,240 --> 01:36:58,680
 Vi faris tion al mi!
-Viaj Bene Ĝeserit faris min monstro!
+Vi, Bene Ĝeserit, faris min monstro!
 
 768
 01:37:22,520 --> 01:37:24,720
