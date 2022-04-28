@@ -8,21 +8,21 @@ Ni transiros nokte.
 Tiel faras la Fremen
 
 892
-02:02:54,240 --> 02:02:56,121
+02:02:54,240 --> 02:02:56,821
 Ni estas enironta varman teritorion
 
 893
 02:02:56,919 --> 02:02:59,596
-Ni ne povas marŝi kiel regulaj homoj,
+Ni ne povas marŝi regule,
 se vi faros tion - ni estas mortaj
 
 894
-02:02:59,720 --> 02:03:03,160
+02:02:59,720 --> 02:03:03,260
 Ni devas marŝi kiel la Fremen.
 Oni nomas tion sabla marŝado
 
 895
-02:03:03,320 --> 02:03:05,383
+02:03:03,320 --> 02:03:06,083
 Almenaŭ laŭ la filmaj libroj
 ĉe la hejmo
 
@@ -36,7 +36,7 @@ En orde, sekvu min.
 Faru la samajn movojn
 
 898
-02:03:23,380 --> 02:03:24,931
+02:03:23,380 --> 02:03:25,931
 Mi pensas ke tio estas la ĝusta direkto
 
 899
