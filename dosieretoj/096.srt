@@ -1,5 +1,5 @@
 960
-02:12:08,289 --> 02:12:09,958
+02:12:08,289 --> 02:12:10,958
 Kie ŝia ĉampiono?
 
 961
@@ -12,7 +12,7 @@ Mi akceptas ŝian ĉampionon
 
 963
 02:12:58,880 --> 02:13:03,160
-<i><Por ke Kŭisatz Haderak leviĝu</i>
+<i>Por ke Kŭisatz Haderak leviĝu</i>
 
 964
 02:13:05,920 --> 02:13:10,905
