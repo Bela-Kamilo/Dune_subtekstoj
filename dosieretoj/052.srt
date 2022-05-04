@@ -41,6 +41,6 @@ Kiu instruis al vi fari tion.
 
 529
 00:56:04,840 --> 00:56:08,400
-"Li konos siajn kutimojn kvazaŭ 
-se li naskiĝus kun ili"
+"Li konos siajn kutimojn kiel
+se li naskiĝis kun ili"
 
