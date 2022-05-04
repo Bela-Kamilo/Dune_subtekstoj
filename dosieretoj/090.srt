@@ -20,7 +20,7 @@ Estas batilo
 
 905
 02:06:22,440 --> 02:06:25,080
-Iu aktiviĝis batilon
+Iu aktivigis batilon
 
 906
 02:06:38,160 --> 02:06:40,240
