@@ -1,6 +1,6 @@
 290
 00:35:03,200 --> 00:35:05,800
-Lisan al-Gaib!
+Lisan al-Gajb!
 
 291
 00:35:21,723 --> 00:35:23,523
@@ -37,5 +37,5 @@ Kion ili kriis
 
 299
 00:36:12,916 --> 00:36:16,516
-Lisan al-Gaib
+Lisan al-Gajb
 "La voĉo el la ekstera mondo"
