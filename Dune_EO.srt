@@ -2,11 +2,9 @@
 00:00:04,120 --> 00:00:08,690
 Sonĝoj estas mesaĝoj de profunde
 
-
 2
 00:00:12,000 --> 00:00:17,000
 <font color="#73d216"><i>Subtitoloj komune faritaj ★</i></font>
-
 
 3
 00:00:50,314 --> 00:00:52,190
@@ -281,7 +279,7 @@ Atestas membroj de la Imperia Kortumo
 60
 00:08:10,720 --> 00:08:16,680
 Reprezentantoj de la kosma gildo
-kaj fratino de la Bene Ĝezerit
+kaj fratino de la Bene Ĝeserit
 
 61
 00:08:17,480 --> 00:08:19,520
@@ -901,7 +899,7 @@ Lia koro plej fortas, sinjorino
 
 200
 00:22:26,080 --> 00:22:28,120
-Nek vorton pri tio al iu ajn
+Nenian vorton pri tio al iu ajn
 
 201
 00:22:38,000 --> 00:22:39,440
@@ -1058,7 +1056,7 @@ Ni ne povus lasi vin vivi
 
 236
 00:26:57,392 --> 00:26:59,760
-Vi heredas tro da potencon
+Vi heredas tro da potenco
 
 237
 00:26:59,920 --> 00:27:03,720
@@ -1089,7 +1087,7 @@ Kion vi vidis?
 
 243
 00:27:29,760 --> 00:27:33,920
--Knabino ĉe Arakis
+-Knabino sur Arakis
 -Ĉu vi iam ajn sonĝis pri ŝi denove?
 
 244
@@ -1293,12 +1291,12 @@ Sinjorino mia
 
 289
 00:34:46,000 --> 00:34:48,400
-Lisan al-Gaib!
+Lisan al-Gajb!
 
 
 290
 00:35:03,200 --> 00:35:05,800
-Lisan al-Gaib!
+Lisan al-Gajb!
 
 291
 00:35:21,723 --> 00:35:23,523
@@ -1335,7 +1333,7 @@ Kion ili kriis
 
 299
 00:36:12,916 --> 00:36:16,516
-Lisan al-Gaib
+Lisan al-Gajb
 "La voĉo el la ekstera mondo"
 
 300
@@ -1358,7 +1356,7 @@ Estigante la vojon, Pol.
 304
 00:36:27,880 --> 00:36:32,160
 Tiu popolo atendadis dum jarcentojn
-por la Lisan al-Gaib
+por la Lisan al-Gajb
 
 305
 00:36:32,320 --> 00:36:36,120
@@ -1529,7 +1527,7 @@ La momento de revelacio estas ŝoka
 
 344
 00:40:56,960 --> 00:41:00,760
-Lisan al-Gaib. La patrino kaj la filo
+Lisan al-Gajb. La patrino kaj la filo
 
 345
 00:41:06,680 --> 00:41:09,200
@@ -1859,7 +1857,7 @@ Ni plenigu ĉiun keston
 
 418
 00:48:23,600 --> 00:48:25,160
-Ĉiuj?
+Ĉiujn?
 
 419
 00:48:25,320 --> 00:48:27,123
@@ -2362,8 +2360,8 @@ Kiu instruis al vi fari tion.
 
 529
 00:56:04,840 --> 00:56:08,400
-"Li konos siajn kutimojn kiel 
-se li naskiĝin kun ili"
+"Li konos siajn kutimojn kiel
+se li naskiĝis kun ili"
 
 
 530
@@ -2843,7 +2841,7 @@ Kion vi vidis?
 
 635
 01:08:39,779 --> 01:08:44,320
-<i>Estas konfuza, mi pensis 
+<i>Estas konfuze, mi pensis 
 ke mi spektis mian morton, sed ne estis tio</i>
 
 636
@@ -2864,7 +2862,7 @@ ke mi spektis mian morton, sed ne estis tio</i>
 
 
 640
-01:09:07,520 --> 01:09:08,667
+01:09:07,520 --> 01:09:09,100
 Mi scias ke vi estas graveda
 
 641
@@ -2965,7 +2963,7 @@ Per mia vivo
 
 663
 01:11:46,640 --> 01:11:50,480
-Mi ne demandas al lia patrinon,
+Mi ne demandas al lia patrino,
 Mi demandas al la Bene Ĝeserit.
 
 664
@@ -3174,7 +3172,7 @@ Forigu ŝian buŝoŝtopilon
 Trovu la taŭgan tonon
 
 712
-01:25:14,280 --> 01:25:18,840
+01:25:14,280 --> 01:25:19,340
 Ni estas sufiĉe foren.
 Ni forĵetu la knabon
 
@@ -3274,7 +3272,7 @@ Do kuniĝu kun ŝi
 
 735
 01:30:10,720 --> 01:30:13,640
-Kion vi imagas, ke sekvas
+Kion vi imagas, ke sekvas?
 
 736
 01:30:16,240 --> 01:30:17,800
@@ -3316,7 +3314,7 @@ Kaj via familio eterne perdiĝas
 Kion vi diris?
 
 745
-01:31:10,200 --> 01:31:14,480
+01:31:10,200 --> 01:31:14,980
 "Tie ĉi mi estas, tie ĉi mi restas"
 
 746
@@ -3344,7 +3342,7 @@ La Imperiestro sendis nin ĉi tie por morti
 
 751
 01:33:58,760 --> 01:34:00,920
-Spico en la rezervujo
+Spico en la tento
 
 752
 01:35:23,360 --> 01:35:26,993
@@ -4022,7 +4020,7 @@ Estas batilo
 
 905
 02:06:22,440 --> 02:06:25,080
-Iu aktiviĝis batilon
+Iu aktivigis batilon
 
 906
 02:06:38,160 --> 02:06:40,240
@@ -4144,7 +4142,7 @@ Kaj tro maljunas por lerni
 
 932
 02:09:29,480 --> 02:09:31,017
-Foriru, hundaĉoj
+For, hundaĉoj
 
 933
 02:09:32,175 --> 02:09:34,004
@@ -4441,17 +4439,22 @@ Dezerta povo.
 Ĉi tio estas nure la komenco
 
 1001
-02:21:21,719 --> 02:21:26,200
-<font color=”#73d216″><i>Kontribuis :</i></font>
+02:21:21,719 --> 02:21:25,700
+<font color="#73d216"><i>Kontribuis :</i></font>
 
 1002
 02:21:26,700 --> 02:21:30,000
-<font color=”#73d216″><i>Ernesto Alvarez</i></font>
-
+<font color="#73d216"><i>Ernesto Alvarez</i></font>
 
 1003
-02:21:31,000 --> 02:21:34,300
-<font color=”#73d216″><i>Mamey edal</i></font>
+02:21:31,000 --> 02:21:34,000
+<font color="#73d216"><i>Mamey edal</i></font>
+
+1004
+02:21:35,300 --> 02:21:40,000
+<i>★ https://github.com/Bela-Kamilo/Dune_subtekstoj ★</i></font>
+
+
 
 
 
