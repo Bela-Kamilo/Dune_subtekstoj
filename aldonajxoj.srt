@@ -2,19 +2,26 @@
 2
 00:00:12,000 --> 00:00:17,000
 <font color="#73d216"><i>Subtitoloj komune faritaj ★</i></font>
-
 1001
-02:21:21,719 --> 02:21:26,200
-<font color=”#73d216″><i>Kontribuis :</i></font>
+02:21:21,719 --> 02:21:25,700
+<font color="#73d216"><i>Kontribuis :</i></font>
 
 1002
 02:21:26,700 --> 02:21:30,000
-<font color=”#73d216″><i>Ernesto Alvarez</i></font>
-
+<font color="#73d216"><i>Ernesto Alvarez</i></font>
 
 1003
-02:21:31,000 --> 02:21:34,300
-<font color=”#73d216″><i>Mamey edal</i></font>
+02:21:31,000 --> 02:21:34,000
+<font color="#73d216"><i>Mamey edal</i></font>
+
+1004
+02:21:35,300 --> 02:21:40,000
+<i>★ https://github.com/Bela-Kamilo/Dune_subtekstoj ★</i></font>
+
+
+
+
+
 
 
 
