@@ -4452,7 +4452,7 @@ Dezerta povo.
 
 1004
 02:21:35,300 --> 02:21:40,000
-<i>★ https://github.com/Bela-Kamilo/Dune_subtekstoj ★</i></font>
+<i>★ https://github.com/Bela-Kamilo/Dune_subtekstoj ★</i>
 
 
 
