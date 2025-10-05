@@ -11,11 +11,13 @@ char read_n_write(FILE* from , FILE* to);
 void appropriate_name( char * name , int i);
 int copy_to_single_file(FILE* from, FILE* to);
 
+char* in_file="pura.srt";
+
 int main(){
 	int i=0;
 	char c;
-	FILE * clean= fopen("pura.srt","r");
-	if(!clean){printf("dosiero pura.srt ne ekzistas aux ne legeblas\n");exit(-1);}
+	FILE * clean= fopen(in_file,"r");
+	if(!clean){printf("dosiero %s ne ekzistas aux ne legeblas\n",in_file);exit(-1);}
 	char   current_file_name[8]={"000.srt"};
 	FILE * current_file;
 	int input_file_finished=0;

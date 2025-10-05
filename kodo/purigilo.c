@@ -20,8 +20,7 @@ int main(int argc, char **argv){
 
 	enum two_newline_finder_fsm {none, one,two};
 	enum two_newline_finder_fsm fsm ;
-
-	if(argc <1) {
+	if(argc <2){
 		printf("Nomu la dosieron purigotan\n");
 		scanf("%s",sourcefile);
 	}
@@ -31,7 +30,7 @@ int main(int argc, char **argv){
 	FILE* dirty =fopen(sourcefile , "r");
 	FILE* clean = fopen("pura.srt" ,"w");
 
-	if(!dirty) {printf("dosiero \"%s\" ne trovebla\n",sourcefile);exit(-1);}
+	if(!dirty) {printf("dosiero \"%s\" ne troveblas\n",sourcefile);exit(-1);}
 	if(!clean) {printf("ne povas krei dosieron\n");exit(-1);}
 
 	//la formato estas	
